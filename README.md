@@ -19,5 +19,7 @@ Sequence Diagram
 Communication Diagram
 Package Diagram
 Design the database with tables for:Student,Admin,Faculty,Enrollment Officer,Course EnrollmentDepartment
+# DIAGRAMS
+
 # RESULT
 Thus, the Student Enrollment System project was executed successfully, and the output was verified.
