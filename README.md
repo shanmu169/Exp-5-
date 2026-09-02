@@ -26,7 +26,6 @@ Design the database with tables for:Student,Admin,Faculty,Enrollment Officer,Cou
 <img width="1042" height="661" alt="ClassDiagram1" src="https://github.com/user-attachments/assets/2de3e90d-881a-4dca-92aa-a52b84147043" />
 <img width="952" height="801" alt="CommunicationDiagram1" src="https://github.com/user-attachments/assets/c04d8611-a5fc-4494-97f5-89f5ec8d3a2a" />
 <img width="872" height="602" alt="PackageDiagram1" src="https://github.com/user-attachments/assets/ed5da3f5-6d2b-49d0-ae84-b0fb84df6bd0" />
-![Uploading ActivityDiagram1.jpg…]()
+<img width="596" height="853" alt="ActivityDiagram1" src="https://github.com/user-attachments/assets/e11bcd4f-172b-4efd-9035-195695b4d18c" />
 
-# RESULT
 Thus, the Student Enrollment System project was executed successfully, and the output was verified.
