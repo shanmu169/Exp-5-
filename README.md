@@ -11,7 +11,7 @@ The main problem is the need for a fast, secure, and automated system that allow
 Identify user needs:Student,Admin,Faculty,Enrollment Officer
 Define functional requirements:Student registration,Course availability check,Course selection,Course enrollment,Enrollment cancellation,Student record management,Course and faculty management
 Define non-functional requirements:Speed,Security,Reliability,Usability,Data integrity
-Step 3: System Design
+# Step 3: System Design
 Draw UML diagrams to represent the Student Enrollment System:
 Use Case Diagram
 Class Diagram
